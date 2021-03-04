@@ -1,1 +1,1 @@
-import "./strategy/index";
+import "./Observer/index";

@@ -1,3 +1,3 @@
 "use strict";
-exports.__esModule = true;
-require("./strategy/index");
+Object.defineProperty(exports, "__esModule", { value: true });
+require("./Observer/index");

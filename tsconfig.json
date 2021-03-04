@@ -1,9 +1,10 @@
 {
   "compilerOptions": {
     "target": "ES5",
-    "module": "system",
+    "module": "CommonJS",
     "moduleResolution": "node",
-    "sourceMap": true,
+    "sourceMap": false,
+    "lib": ["ES6","es2016","dom"],
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "removeComments": false,
@@ -12,5 +13,5 @@
     "skipLibCheck": true /* Skip type checking of declaration files. */,
     "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */
   },
-  "exclude": ["node_modules", "build"]
+  "exclude": ["node_modules"]
 }
