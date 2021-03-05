@@ -1,1 +1,1 @@
-import "./Observer/index";
+import "./Decorator/index";
