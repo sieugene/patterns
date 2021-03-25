@@ -1,1 +1,1 @@
-import "./Decorator/index";
+import "./FactoryMethod/index";
