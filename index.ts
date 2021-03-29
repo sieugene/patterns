@@ -1,1 +1,1 @@
-import "./FactoryMethod/index";
+import "./AbstractFactory/index";
