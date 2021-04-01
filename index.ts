@@ -1,1 +1,1 @@
-import "./AbstractFactory/index";
+import "./Singleton/index";

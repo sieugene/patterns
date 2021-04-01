@@ -1,3 +1,3 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-require("./AbstractFactory/index");
+require("./Singleton/index");
