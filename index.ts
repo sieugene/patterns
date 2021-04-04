@@ -1,1 +1,1 @@
-import "./Singleton/index";
+import "./Command/index";
