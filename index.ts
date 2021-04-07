@@ -1,1 +1,1 @@
-import "./Command/index";
+import "./Adapter/index";
