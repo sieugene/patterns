@@ -1,1 +1,1 @@
-import "./Adapter/index";
+import "./Facade/index";
