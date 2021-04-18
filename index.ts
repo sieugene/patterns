@@ -1,1 +1,1 @@
-import "./Facade/index";
+import "./TemplateMethod/index";

@@ -81,9 +81,4 @@
     var subsystem2 = new Subsystem2_1();
     var facade = new Facade(subsystem1, subsystem2);
     clientCodeFacade(facade);
-    //"Subsystem1: Ready!\n"
-    //"Subsystem2: Get ready!\n";
-    //"Facade orders subsystems to perform the action:\n"
-    //"Subsystem1: Go!\n"
-    //"Subsystem2: Fire!"
 }
