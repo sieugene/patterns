@@ -1,1 +1,1 @@
-import "./TemplateMethod/index";
+import "./Iterator/index";
