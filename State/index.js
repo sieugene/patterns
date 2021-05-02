@@ -91,11 +91,7 @@ var __extends = (this && this.__extends) || (function () {
         return ConcreteStateB;
     }(State));
     var context = new Context(new ConcreteStateA_1());
-    //    console.log("ConcreteStateA handles request1.");
-    //    console.log("ConcreteStateA wants to change the state of the context.");
     context.request1();
     context.request2();
-    //  console.log("ConcreteStateB handles request2.");
-    //  console.log("ConcreteStateB wants to change the state of the context.");
     context.request2();
 }
